@@ -1,6 +1,15 @@
-.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+
+  #image1 {
+    
+    text-align: center;
   }
+  h1 {
+    border: 20px solid powderblue;
+    text-align: center
+  }
+  h2 {
+    border: 20px solid powderblue;
+    text-align: center
+}
+::-moz-selection { background: #fe57a1; color: #fff; text-shadow: none; }
+::selection { background: #fe57a1; color: #fff; text-shadow: none; }
