@@ -1,5 +1,11 @@
+  .image1 {
+      width: 60%;
+      height: 60%;
+      align-items: center;
+      object-fit: contain;
+}
 
-  #image1 {
+  #image2 {
     
     text-align: center;
   }
@@ -15,4 +21,13 @@
     text-align: right;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-stretch: extra-expanded
+    
+}
+#yelpreview {
+  text-align: auto;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-stretch: extra-expanded;
+  text-align: right;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-stretch: extra-expanded
 }
